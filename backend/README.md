@@ -12,6 +12,9 @@ In the project directory, you can run:
 
 The server is started at [http://localhost:5000](http://localhost:5000)
 
+## Test the app
+1. `npm test` (Only added couple of tests for pnlCalculator to showcase testing. Many more can be added!)
+
 ## APIs
 `1. GET /api/v1/balance-sheet?businessName&businessEstablishmentYear&account`
 
