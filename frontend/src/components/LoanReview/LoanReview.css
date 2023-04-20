@@ -1,0 +1,49 @@
+.loan-review {
+  font-size: 16px;
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+  background-color: #f8f9fa;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.loan-review-item {
+  margin-bottom: 10px;
+}
+
+.balance-sheet {
+  max-height: 200px;
+  overflow-y: auto;
+  border: 1px solid #ced4da;
+  border-radius: 4px;
+  padding: 10px;
+  background-color: #fff;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+th, td {
+  text-align: left;
+  padding: 4px 8px;
+  border-bottom: 1px solid #ced4da;
+}
+
+th {
+  font-weight: bold;
+}
+
+.form-button {
+  display: inline-block;
+  margin-top: 1rem;
+  padding: 0.5rem 1rem;
+  color: #fff;
+  background-color: #007bff;
+  border: 1px solid #007bff;
+  border-radius: 5px;
+  font-size: 1rem;
+  cursor: pointer;
+}
